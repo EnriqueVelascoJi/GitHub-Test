@@ -11,6 +11,10 @@
     margin: 0 auto;
 
 }
+.mensaje p {
+
+    text-align: center;
+}
 .btn {
 
     width: 60%;
